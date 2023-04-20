@@ -9,7 +9,7 @@ apt-get -y install apache2
  
 
 # Install apache and write hello world message
-RUN echo 'Hello Bow Valley College!' > /var/www/html/index.html
+RUN echo 'Hello Bow Valley College 2023!' > /var/www/html/index.html
 
  
 
